@@ -1,6 +1,6 @@
 # Ridiculously Simple App Engine + Flask
 
-Absolutely the simplest App Engine and Flask web app I could imagine.
+A ridiculously simple App Engine + Flask boilerplate for when you just need to make stuff.
 
 No backend. A simple entry point and Jinja template.
 
